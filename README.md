@@ -1,8 +1,8 @@
 Pertemuan 09 - List dan Pengolahan Data Numerik
 
-Nama: [Nama Lengkap]
-NIM: [NIM Kamu]
-Kelas: [Kelas Kamu]
+Nama: [khunaepi]
+NIM: [2225250053]
+Kelas: [3B]
 
 1. Tujuan
 
